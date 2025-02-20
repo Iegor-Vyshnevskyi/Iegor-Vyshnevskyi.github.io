@@ -28,15 +28,13 @@ about:
 ---
 
 ::: {#hero-heading}
-I am an assistant research scientist at the SNF Agora Institute at Johns Hopkins University and a research fellow at the Center for Public Leadership at Harvard Kennedy School. Previously, I worked as a senior data scientist at [Code for America](https://codeforamerica.org/programs/), where I collaborated with all levels of the U.S. government to improve access to safety net programs. I completed my PhD in Political Science from the University of California, Berkeley in 2021. My research has been published in top outlets such as *Nature Human Behaviour* and received multiple awards from the American Political Science Association.
+I am an Assistant Professor of International Commerce at Sogang University, where I teach courses in international economics, finance, and data science. My academic background includes a Ph.D. in Public Policy with a specialization in banking and central banking from the KDI School of Public Policy and Management.  
 
-I study how the state and marginalized populations interact in American politics and policy, with a focus on policy implementation (**state capacity**) and community organizing and collective action (**civic capacity**). My research agenda is interdisciplinary and grounded in people’s everyday experiences accessing public services and solving collective problems. I specialize in use-inspired research based on partnerships with government agencies. In addition, I have extensive experience building original, large-scale, and multi-purpose databases using big data and machine learning/AI. One example is [the Mapping the Modern Agora project](https://histphil.org/2024/01/25/the-uneven-landscape-of-civic-opportunity-in-the-united-states-what-we-discovered-while-mapping-the-modern-agora/), which maps the U.S. civil society at scale utilizing more than 1.8 million IRS tax returns, 1.1 million websites, and other digital trace data of nonprofit organizations.
+Previously, I served as an Assistant Professor of Economics at Woosong University, where I taught economics, research, and data science courses while mentoring students. My research focuses on central banking, financial stability, and banking supervision, with a particular interest in nonperforming loans, monetary policy communication, and sustainable central banking.  
 
-In addition to my substantive interests, through my work on **computational social science** and **data science pedagogy**, I am actively engaged in bridging social sciences and data science and making computational methods accessible.
+Before transitioning to academia, I worked as a financial analyst at the National Bank of Ukraine, where I conducted financial modeling, risk analysis, and policy development. My expertise includes macro-financial surveillance, economic forecasting, and policy analysis. I have published research in reputable academic journals, contributing to discussions on banking regulation, financial market volatility, and monetary policy transparency.  
 
-I am currently working on a book version of my award-winning dissertation, tentatively titled "Demography Is Not Destiny: Discrimination, Solidarity, and Representation in Multiracial America."
-
-I am <u>on the job market</u> in the 2024-2025 academic year.
+Beyond research, I am passionate about integrating data science into economics and finance. I teach students how to apply programming languages such as R and Python to analyze economic and financial data. I am also actively engaged in bridging the gap between research and policy by developing analytical tools for macroeconomic and financial analysis.
 
 You can reach me at [ievysh@sogang.ac.kr](mailto:ievysh@sogang.ac.kr). Here is a [link](https://Iegor-Vyshnevskyi.github.io/CV_Iegor.pdf) to my CV.
 :::
